@@ -1,0 +1,21 @@
+button {
+    background-color: #D52047;
+    color:white;
+    border:none;
+    padding: 25px;
+    width: 160px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.primary-button {
+    font-size: 1.2rem;
+}
+
+button:hover{
+    background-color: #E63158;
+}
+
+button:active{
+    background-color: #D52147;
+}
